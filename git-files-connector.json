@@ -1,0 +1,17 @@
+{
+  "type": "file",
+  "enabled": true,
+  "connection": "file:///",
+  "workspaces": {
+    "root": {
+      "location": "/user/max/donuts",
+      "writable": false,
+      "defaultInputFormat": null
+    }
+  },
+  "formats": {
+    "json": {
+      "type": "json"
+    }
+  }
+}
